@@ -1,7 +1,7 @@
-package com.wubao.springboot_vue.controller;
+package com.wubao.springboot.controller;
 
-import com.wubao.springboot_vue.entity.User;
-import com.wubao.springboot_vue.service.userService;
+import com.wubao.springboot.entity.User;
+import com.wubao.springboot.service.userService;
 import org.springframework.stereotype.Controller;
 
 @Controller

@@ -1,4 +1,4 @@
-package com.wubao.springboot_vue.entity;
+package com.wubao.springboot.entity;
 
 import lombok.Data;
 

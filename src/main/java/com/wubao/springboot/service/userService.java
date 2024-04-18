@@ -1,7 +1,7 @@
-package com.wubao.springboot_vue.service;
+package com.wubao.springboot.service;
 
 
-import com.wubao.springboot_vue.entity.User;
+import com.wubao.springboot.entity.User;
 import org.springframework.stereotype.Service;
 
 @Service

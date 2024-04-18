@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.wubao</groupId>
-    <artifactId>springboot_vue</artifactId>
+    <artifactId>springboot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springboot_vue</name>
-    <description>springboot_vue</description>
+    <name>springboot</name>
+    <description>springboot</description>
     <properties>
         <java.version>17</java.version>
     </properties>
