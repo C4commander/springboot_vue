@@ -1,10 +1,10 @@
 package com.wubao.springboot.service;
 
 
-import com.wubao.springboot.entity.User;
+import com.wubao.springboot.entity.Student;
 import org.springframework.stereotype.Service;
 
 @Service
 public interface userService {
-    public User getUser();
+    public Student getUser();
 }
